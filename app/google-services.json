@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904058149245",
+    "project_id": "dock90",
+    "storage_bucket": "dock90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904058149245:android:d73c156d237357e3701414",
+        "android_client_info": {
+          "package_name": "com.neway.dock90"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904058149245-09ro8johhutv05s3no1albf71tjlvef9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaAxd2g9cuAt7p9lhUGzuSwcuq0qNAq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904058149245-09ro8johhutv05s3no1albf71tjlvef9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
